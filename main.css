@@ -28,3 +28,11 @@ body {
   h2 ~ p{
     color:greenyellow;
   }
+
+  div > p {
+    color: pink;
+}
+
+div p {
+    color:red
+}
